@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/thecodingmachine/react-native-boilerplate",
+  "branch": "main",
+  "docusaurusRoot": "documentation",
+  "configFile": "documentation/docusaurus.config.js",
+  "translateCommand": "yarn write-translations",
+  "buildCommand": "yarn build",
+  "buildOutput": "build",
+  "packageManager": "yarn"
+}
