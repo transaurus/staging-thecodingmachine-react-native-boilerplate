@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[5682],{6911(e){e.exports=JSON.parse('{"permalink":"/react-native-boilerplate/zh-Hans/blog/tags/kit","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

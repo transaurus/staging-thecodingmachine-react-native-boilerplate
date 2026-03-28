@@ -6,14 +6,14 @@ export default {
   tagline: 'Simple, Lightweight and Scalable.',
   url: 'https://thecodingmachine.github.io',
   baseUrl: '/react-native-boilerplate/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/TOM-small.webp',
   organizationName: 'thecodingmachine',
   projectName: 'react-native-boilerplate',
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ["en", "zh-Hans"],
   },
   plugins: [
     async function myPlugin() {

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[8131],{6759(t){t.exports=JSON.parse('{"label":"starter-kit","permalink":"/react-native-boilerplate/zh-Hans/blog/tags/starter-kit","allTagsPath":"/react-native-boilerplate/zh-Hans/blog/tags","count":1,"unlisted":false}')}}]);

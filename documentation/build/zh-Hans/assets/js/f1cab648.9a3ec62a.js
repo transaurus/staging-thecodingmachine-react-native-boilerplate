@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[868],{8e3(e){e.exports=JSON.parse('{"label":"native","permalink":"/react-native-boilerplate/zh-Hans/blog/tags/native","allTagsPath":"/react-native-boilerplate/zh-Hans/blog/tags","count":1,"unlisted":false}')}}]);

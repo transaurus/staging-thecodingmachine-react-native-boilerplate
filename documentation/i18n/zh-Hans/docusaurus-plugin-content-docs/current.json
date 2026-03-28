@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Theming": {
+    "message": "Theming",
+    "description": "The label for category Theming in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Generated styles": {
+    "message": "Generated styles",
+    "description": "The label for category Generated styles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Components": {
+    "message": "Components",
+    "description": "The label for category Components in sidebar tutorialSidebar"
+  }
+}
